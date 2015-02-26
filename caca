@@ -1,0 +1,136 @@
+Last login: Tue Feb 24 20:01:46 on console
+Sebastians-MacBook-Pro:~ sebastianvelasco$ ls
+AT.postflight.14006	FrostWire		Ubuntu One
+Applications		Library			Untitled.txt
+BlackHole		Movies			Untitled0.ipynb
+Desktop			Music			Untitled1.ipynb
+Documents		Pictures		numpy
+Downloads		Projects		scipy
+Final.ipynb		Public
+Sebastians-MacBook-Pro:~ sebastianvelasco$ ls
+AT.postflight.14006	FrostWire		Ubuntu One
+Applications		Library			Untitled.txt
+BlackHole		Movies			Untitled0.ipynb
+Desktop			Music			Untitled1.ipynb
+Documents		Pictures		numpy
+Downloads		Projects		scipy
+Final.ipynb		Public
+Sebastians-MacBook-Pro:~ sebastianvelasco$ git confif --global user.name "svelasco"
+git: 'confif' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+Sebastians-MacBook-Pro:~ sebastianvelasco$ git config --global user.name "svelasco"
+Sebastians-MacBook-Pro:~ sebastianvelasco$ ls
+AT.postflight.14006	FrostWire		Ubuntu One
+Applications		Library			Untitled.txt
+BlackHole		Movies			Untitled0.ipynb
+Desktop			Music			Untitled1.ipynb
+Documents		Pictures		numpy
+Downloads		Projects		scipy
+Final.ipynb		Public
+Sebastians-MacBook-Pro:~ sebastianvelasco$ git config --global user.email "s.velasco10@uniandes.edu.co"
+Sebastians-MacBook-Pro:~ sebastianvelasco$ ls
+AT.postflight.14006	FrostWire		Ubuntu One
+Applications		Library			Untitled.txt
+BlackHole		Movies			Untitled0.ipynb
+Desktop			Music			Untitled1.ipynb
+Documents		Pictures		numpy
+Downloads		Projects		scipy
+Final.ipynb		Public
+Sebastians-MacBook-Pro:~ sebastianvelasco$ ls
+AT.postflight.14006	FrostWire		Ubuntu One
+Applications		Library			Untitled.txt
+BlackHole		Movies			Untitled0.ipynb
+Desktop			Music			Untitled1.ipynb
+Documents		Pictures		numpy
+Downloads		Projects		scipy
+Final.ipynb		Public
+Sebastians-MacBook-Pro:~ sebastianvelasco$ cd Documents/
+Sebastians-MacBook-Pro:Documents sebastianvelasco$ ls
+APO				Proyecto seminario .pdf
+About Stacks.lpdf		Python
+Astro. Clases			RDC Connections
+Black Hole's kick		RECA
+Codigos				S.v
+Electronica PF.docx		SOBRE EL TRABAJO.docx
+Espanol 2012-2			Seminario.pptx
+Francais			Slender_v0_9_7_mac
+Herramientas Computacionales	Uribe Uribe.docx
+Hojas de Vida			Velasco Moreno, Sebastian.docx
+Horarios Uniandes		Velasco-Moreno, Sebastian.docx
+HyF C.docx			Workspace
+Lab Moderna			Zandronum
+Lab. Intermedio			bono ondas ii.docx
+Lab. ondas			formato de notas (1).xlsx
+Laboratorios de Quimica		iTunes Software License.rtf
+Libros				interrogantes lg.docx
+MetodosComputacionales		matplotlib-1.3.0
+MetodosComputacionalesOX	moderna final.pdf
+Microsoft User Data		moderna final.pptx
+My Games			numpy-1.7.1
+Parciales			parcial3-201220.pdf
+Presentation2.pptx		procesos de paz.docx
+Sebastians-MacBook-Pro:Documents sebastianvelasco$ cd MetodosComputacionales
+Sebastians-MacBook-Pro:MetodosComputacionales sebastianvelasco$ git clone https://github.com/svelasco/hw1
+Cloning into 'hw1'...
+Username for 'https://github.com': svelasco10
+Password for 'https://svelasco10@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/svelasco/hw1/'
+Sebastians-MacBook-Pro:MetodosComputacionales sebastianvelasco$ git clone https://github.com/svelasco/hw3
+Cloning into 'hw3'...
+Username for 'https://github.com': svelasco10
+Password for 'https://svelasco10@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/svelasco/hw3/'
+Sebastians-MacBook-Pro:MetodosComputacionales sebastianvelasco$ ls
+Nuevo Tour.ipynb		python.py
+SVelasco_Taller1		taller1
+SebastianVelasco_HW1		tarea2
+SebastianVelasco_HW1.zip
+Sebastians-MacBook-Pro:MetodosComputacionales sebastianvelasco$ cd tarea2/
+Sebastians-MacBook-Pro:tarea2 sebastianvelasco$ ls
+hipparcos.tar.gz
+Sebastians-MacBook-Pro:tarea2 sebastianvelasco$ git clone https://github.com/svelasco/tarea2
+Cloning into 'tarea2'...
+Username for 'https://github.com': svelasco10
+Password for 'https://svelasco10@github.com': 
+remote: Invalid username or password.
+Sebastians-MacBook-Pro:tarea2 sebastianvelasco$ git clone https://github.com/svelasco/popo.git
+Cloning into 'popo'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done
+Sebastians-MacBook-Pro:tarea2 sebastianvelasco$ ls
+hipparcos.tar.gz	popo
+Sebastians-MacBook-Pro:tarea2 sebastianvelasco$ cd popo
+Sebastians-MacBook-Pro:popo sebastianvelasco$ ls
+README.md
+Sebastians-MacBook-Pro:popo sebastianvelasco$ emacs tallergithub..txt
+
+hola prueba caca 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-uuu:**-F1  tallergithub..txt   All L1     (Text)-------------------------------------------------------------------------------
+Auto-saving...done
